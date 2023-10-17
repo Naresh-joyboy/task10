@@ -1,0 +1,11 @@
+body{
+    background: linear-gradient(40deg,rgb(127, 127, 206),rgb(216, 119, 119));
+    
+}
+#count{
+    display:flex;
+    text-align: center;
+    justify-content: center;
+    align-content: center;
+    font-size: 30px;
+}
